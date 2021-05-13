@@ -1,5 +1,12 @@
 ![](./static/banner.gif)
-### Hi there 👋
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrian Agnic!
+
+Software Developer specializing in Go and Python development and orchestration with Docker and Kubernetes. Professionally experienced with all the technologies listed in the __toolbox__ below.
+
+- 🔭 I’m currently working on fun image-generation projects.
+- 🌱 I’m currently learning some mind-boggling algorithms.
+- 📫 How to reach me: 
+    - Message/Follow me on [LinkedIn](https://www.linkedin.com/in/adrianagnic)!
 
 --------
 🧰 Toolbox
