@@ -1,3 +1,4 @@
+![](banner.gif)
 ### Hi there 👋
 
 <!--
